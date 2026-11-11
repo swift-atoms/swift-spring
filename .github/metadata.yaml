@@ -1,0 +1,9 @@
+description: "A damped spring for Swift as a closed-form function of time: displacement and velocity at any instant, with no step-by-step simulation."
+topics:
+  - primitives
+  - spring
+  - animation
+  - physics
+homepage: "https://swift-institute.org"
+readme:
+  family: E
